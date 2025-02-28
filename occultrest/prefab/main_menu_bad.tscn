@@ -1,0 +1,152 @@
+[gd_scene load_steps=8 format=3 uid="uid://l1uxu3mawfml"]
+
+[ext_resource type="PackedScene" uid="uid://c5s2tt5ichgpl" path="res://prefab/forest_enviroment.tscn" id="1_02lj1"]
+[ext_resource type="PackedScene" uid="uid://w0ryx4i6wxxd" path="res://prefab/zaec.tscn" id="2_clmbt"]
+[ext_resource type="FontFile" uid="uid://t83hxgh8be5n" path="res://fonts/cascadia-mono-pl-semibold.otf" id="3_5rt60"]
+[ext_resource type="Script" path="res://prefab/interface.gd" id="4_sxl5v"]
+
+[sub_resource type="Environment" id="Environment_gf6uq"]
+background_mode = 1
+background_color = Color(0.1209, 0.218602, 0.31, 1)
+ssil_enabled = true
+sdfgi_enabled = true
+sdfgi_energy = 0.47
+glow_enabled = true
+glow_intensity = 8.0
+glow_strength = 1.38
+fog_enabled = true
+fog_light_color = Color(0.54, 0.624, 0.72, 1)
+fog_light_energy = 0.1
+fog_density = 0.004
+fog_depth_curve = 51.9841
+volumetric_fog_emission_energy = 130.35
+volumetric_fog_anisotropy = -0.63
+volumetric_fog_length = 31.66
+volumetric_fog_detail_spread = 6.0
+volumetric_fog_sky_affect = 0.0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_j28tm"]
+cull_mode = 1
+vertex_color_use_as_albedo = true
+albedo_color = Color(0.470141, 0.678335, 1, 1)
+ao_light_affect = 0.85
+
+[sub_resource type="BoxMesh" id="BoxMesh_hyxxy"]
+size = Vector3(5, 5, 5)
+
+[node name="Node3D" type="Node3D"]
+
+[node name="plant" type="Node3D" parent="."]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="plant"]
+environment = SubResource("Environment_gf6uq")
+
+[node name="map" parent="plant" instance=ExtResource("1_02lj1")]
+transform = Transform3D(17.1944, 0, -62.6845, 0, 65, 0, 62.6845, 0, 17.1944, 10.3889, -0.347801, 64.4787)
+
+[node name="zaec" parent="." node_paths=PackedStringArray("stranger_mudlr") instance=ExtResource("2_clmbt")]
+transform = Transform3D(-0.514095, 0, -0.857733, 0, 1, 0, 0.857733, 0, -0.514095, 1619.82, -35.0807, -6040.76)
+axis_lock_linear_x = true
+axis_lock_linear_y = true
+axis_lock_linear_z = true
+axis_lock_angular_x = true
+axis_lock_angular_y = true
+axis_lock_angular_z = true
+speed = 0.0
+rotation_speed = 0.0
+stranger_mudlr = NodePath("stranger_mudlr")
+
+[node name="stranger_mudlr" type="Node3D" parent="zaec"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -83.6327, -28.3865, -79.4919)
+
+[node name="Label3D" type="Label3D" parent="zaec/stranger_mudlr"]
+transform = Transform3D(0.802609, 0, 0.596505, 0, 1, 0, -0.596505, 0, 0.802609, 91.3857, 101.412, 148.538)
+transparency = 0.65
+billboard = 1
+text = "Кто ты?"
+font = ExtResource("3_5rt60")
+font_size = 1300
+outline_size = 5
+
+[node name="Label3D2" type="Label3D" parent="zaec/stranger_mudlr"]
+transform = Transform3D(0.941606, 0, -0.336717, 0, 1, 0, 0.336717, 0, 0.941606, 111.299, 115.939, 79.8166)
+transparency = 0.65
+billboard = 1
+text = "Не я"
+font = ExtResource("3_5rt60")
+font_size = 1300
+outline_size = 5
+
+[node name="Label3D3" type="Label3D" parent="zaec/stranger_mudlr"]
+transform = Transform3D(0.802609, 0, 0.596505, 0, 1, 0, -0.596505, 0, 0.802609, 23.3413, 101.412, 69.2887)
+transparency = 0.65
+billboard = 1
+text = "Кто то тут есть"
+font = ExtResource("3_5rt60")
+font_size = 1300
+outline_size = 5
+
+[node name="Label3D4" type="Label3D" parent="zaec/stranger_mudlr"]
+transform = Transform3D(0.802609, 0, 0.596505, 0, 1, 0, -0.596505, 0, 0.802609, 43.4697, 89.3723, 57.2246)
+transparency = 0.65
+billboard = 1
+text = "Мы лжём? Нет"
+font = ExtResource("3_5rt60")
+font_size = 1300
+outline_size = 5
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(-0.667744, 0.364077, -0.649282, -0.0156057, 0.865193, 0.501196, 0.744228, 0.344803, -0.572045, 1549.9, 54.459, -6103.36)
+
+[node name="interface" type="CanvasLayer" parent="Camera3D"]
+script = ExtResource("4_sxl5v")
+
+[node name="GridContainer" type="GridContainer" parent="Camera3D/interface"]
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 214.0
+offset_right = 7.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="RichTextLabel" type="RichTextLabel" parent="Camera3D/interface/GridContainer"]
+custom_minimum_size = Vector2(500, 200)
+layout_mode = 2
+theme_override_constants/outline_size = 30
+theme_override_fonts/normal_font = ExtResource("3_5rt60")
+theme_override_font_sizes/normal_font_size = 60
+bbcode_enabled = true
+text = "
+[center]Occultrest[/center]"
+
+[node name="Button" type="Button" parent="Camera3D/interface/GridContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3_5rt60")
+theme_override_font_sizes/font_size = 56
+text = "Играть"
+
+[node name="RichTextLabel2" type="RichTextLabel" parent="Camera3D/interface/GridContainer"]
+custom_minimum_size = Vector2(800, 300)
+layout_mode = 2
+theme_override_constants/outline_size = 30
+theme_override_fonts/normal_font = ExtResource("3_5rt60")
+theme_override_font_sizes/normal_font_size = 60
+bbcode_enabled = true
+text = "
+[center]Вы погибли. Монстр скушал вас.[/center]"
+
+[node name="cube_lamp" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1568.96, 38.4635, -6056.98)
+material_override = SubResource("StandardMaterial3D_j28tm")
+cast_shadow = 0
+mesh = SubResource("BoxMesh_hyxxy")
+
+[node name="OmniLight3D" type="OmniLight3D" parent="cube_lamp"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.16443, 0)
+light_color = Color(0.24417, 0.622219, 1, 1)
+light_energy = 400.0
+shadow_enabled = true
+omni_range = 710.0
+
+[connection signal="pressed" from="Camera3D/interface/GridContainer/Button" to="Camera3D/interface" method="_on_button_pressed"]

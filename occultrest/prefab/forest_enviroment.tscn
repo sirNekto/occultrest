@@ -1,0 +1,120 @@
+[gd_scene load_steps=6 format=3 uid="uid://c5s2tt5ichgpl"]
+
+[ext_resource type="PackedScene" uid="uid://bsqle2ovw1w2l" path="res://prefab/trigger_obj.tscn" id="1_2fyt3"]
+[ext_resource type="AudioStream" uid="uid://dvyb5d6gfn0fa" path="res://sound/forest-night.mp3" id="4_4knkr"]
+[ext_resource type="PackedScene" uid="uid://bh8i8iygt16nt" path="res://prefab/mining_pack_free.tscn" id="4_itseo"]
+[ext_resource type="ArrayOccluder3D" uid="uid://c4vh74pnlrs5c" path="res://prefab/forest_enviroment.occ" id="16_mgjk7"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_cy3eg"]
+albedo_color = Color(0.014, 0.28, 0, 1)
+
+[node name="map" type="Node3D"]
+
+[node name="Terrain" type="Node3D" parent="."]
+
+[node name="map" type="Node3D" parent="Terrain"]
+
+[node name="CSGBox3D" type="CSGBox3D" parent="Terrain/map"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -60.0181, 0.158066, -4.94639)
+visible = false
+material_override = SubResource("StandardMaterial3D_cy3eg")
+use_collision = true
+size = Vector3(145.823, 0.607056, 111.774)
+
+[node name="CSGBox3D2" type="CSGBox3D" parent="Terrain/map"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -13.5002, 9.04218, 19.681)
+material_override = SubResource("StandardMaterial3D_cy3eg")
+use_collision = true
+size = Vector3(47.7653, 19.0844, 8.82094)
+
+[node name="CSGBox3D3" type="CSGBox3D" parent="Terrain/map"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -13.6244, 9.04218, -18.5076)
+material_override = SubResource("StandardMaterial3D_cy3eg")
+use_collision = true
+size = Vector3(48.0137, 19.0844, 8.5431)
+
+[node name="CSGBox3D4" type="CSGBox3D" parent="Terrain/map"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 13.0213, 9.04218, -4.89539)
+material_override = SubResource("StandardMaterial3D_cy3eg")
+use_collision = true
+size = Vector3(6.41219, 19.0844, 63.607)
+
+[node name="CSGBox3D5" type="CSGBox3D" parent="Terrain/map"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -38.6642, 9.04218, 36.214)
+material_override = SubResource("StandardMaterial3D_cy3eg")
+use_collision = true
+size = Vector3(7.13762, 19.0844, 31.1967)
+
+[node name="CSGBox3D6" type="CSGBox3D" parent="Terrain/map"]
+transform = Transform3D(0.951862, 0, 0.306526, 0, 1, 0, -0.306526, 0, 0.951862, -72.4721, 9.04217, 41.6357)
+material_override = SubResource("StandardMaterial3D_cy3eg")
+use_collision = true
+size = Vector3(73.658, 19.0844, 8.21473)
+
+[node name="CSGBox3D8" type="CSGBox3D" parent="Terrain/map"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -38.6642, 9.04218, -92.5158)
+material_override = SubResource("StandardMaterial3D_cy3eg")
+use_collision = true
+size = Vector3(7.13762, 19.0844, 156.944)
+
+[node name="CSGBox3D7" type="CSGBox3D" parent="Terrain/map"]
+transform = Transform3D(0.749742, 0, 0.661731, 0, 1, 0, -0.661731, 0, 0.749742, -159.704, 9.04217, -13.3771)
+material_override = SubResource("StandardMaterial3D_cy3eg")
+use_collision = true
+size = Vector3(8.5575, 19.0844, 187.949)
+
+[node name="CSGBox3D9" type="CSGBox3D" parent="Terrain/map"]
+transform = Transform3D(0.775077, 0, -0.631867, 0, 1, 0, 0.631867, 0, 0.775077, -106.207, 9.04216, -77.4412)
+material_override = SubResource("StandardMaterial3D_cy3eg")
+use_collision = true
+size = Vector3(8.5575, 19.0844, 187.949)
+
+[node name="CSGBox3D10" type="CSGBox3D" parent="Terrain/map"]
+transform = Transform3D(0.130941, 0, -0.99139, 0, 1, 0, 0.99139, 0, 0.130941, -62.6873, 9.04217, -97.515)
+material_override = SubResource("StandardMaterial3D_cy3eg")
+use_collision = true
+size = Vector3(8.5575, 19.0844, 85.5149)
+
+[node name="tree" type="Node3D" parent="Terrain"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, -0.368927, 0)
+
+[node name="object" type="Node3D" parent="Terrain"]
+
+[node name="shiza" type="Node3D" parent="Terrain"]
+
+[node name="trigger_obj" parent="Terrain/shiza" instance=ExtResource("1_2fyt3")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -32.6536, 0.461594, -0.335634)
+
+[node name="trigger_obj2" parent="Terrain/shiza" instance=ExtResource("1_2fyt3")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -51.912, 0.461594, 19.3124)
+list_text = Array[String](["Что мы тут делаем?", "Я гуляю", "А я думал ищем.", "Цыц."])
+list_id = Array[int]([0, 1, 2, 1])
+list_time = Array[int]([2, 2, 2, 2])
+
+[node name="trigger_obj3" parent="Terrain/shiza" instance=ExtResource("1_2fyt3")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -70.2227, 0.461594, -10.5679)
+list_text = Array[String]([" ", "Мне кажется мы потерялись", "Это он потерялся, мы нет", "Но мы с ним", "Бред", "Ага конечно", "Надо идти в сторону"])
+list_id = Array[int]([0, 1, 2, 1, 2, 1, 0])
+list_time = Array[int]([2, 2, 2, 2, 2, 2, 2])
+
+[node name="trigger_obj4" parent="Terrain/shiza" instance=ExtResource("1_2fyt3")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -107.162, 0.461594, -8.12779)
+list_text = Array[String](["Тут кто-то есть", "Мы тут.", "Ещё."])
+list_id = Array[int]([0, 1, 2])
+
+[node name="trigger_obj5" parent="Terrain/shiza" instance=ExtResource("1_2fyt3")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -83.4978, 0.46159, -63.2931)
+list_text = Array[String](["Тут тоже тупик.", "Раньше голосов не было.", "ЭТО ВСЁ ЛЕС"])
+list_id = Array[int]([0, 1, 2])
+
+[node name="OccluderInstance3D" type="OccluderInstance3D" parent="."]
+occluder = ExtResource("16_mgjk7")
+
+[node name="Mining_Pack_Free" parent="." instance=ExtResource("4_itseo")]
+transform = Transform3D(0.0105798, 0, 0.69992, 0, 0.7, 0, -0.69992, 0, 0.0105798, -101.654, 19.319, -25.7207)
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("4_4knkr")
+volume_db = -10.137
+autoplay = true
+parameters/looping = true
