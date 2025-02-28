@@ -17,6 +17,7 @@ func _ready():
 	player = get_node(player_path)
 	# Устанавливаем случайное время до первого появления
 	timer = 45
+	area = get_child(2)
 	area.connect("body_entered", _body_entered)
 	
 func _body_entered(body):
