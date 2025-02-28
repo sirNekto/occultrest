@@ -1,0 +1,260 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1740688901
+icon.svg::CompressedTexture2D::8887420713758238244::1740505026::1740505035::1::::<><>::
+::res://addons/::1740509639
+::res://fonts/::1740579971
+cascadia-mono-pl-semibold.otf::FontFile::1403426289029454993::1740563764::1740563884::1::::<><>::
+::res://model/::1740688930
+::res://model/forest/::1740579971
+_1_tree.png::CompressedTexture2D::4484392180132652808::1563648084::1740506965::1::::<><>::
+_2_tree.png::CompressedTexture2D::6700422833152760542::1563648075::1740506965::1::::<><>::
+_3_tree.png::CompressedTexture2D::527723985205703138::1563648186::1740506965::1::::<><>::
+_4_tree.png::CompressedTexture2D::7840587634495748661::1563648328::1740506965::1::::<><>::
+_5_tree.png::CompressedTexture2D::2400204188344174216::1563648422::1740506965::1::::<><>::
+_6_tree.png::CompressedTexture2D::5867286248423164825::1563648500::1740506965::1::::<><>::
+_7_tree.png::CompressedTexture2D::6363070766548681971::1563648621::1740506965::1::::<><>::
+_8_tree.png::CompressedTexture2D::3761424495430733165::1563728697::1740506965::1::::<><>::
+_9_tree.png::CompressedTexture2D::1897225642443873169::1563728836::1740506965::1::::<><>::
+_10_tree.png::CompressedTexture2D::509659933139902243::1563729027::1740506965::1::::<><>::
+_11_tree.png::CompressedTexture2D::424842821400195492::1563729126::1740506965::1::::<><>::
+_12_tree.png::CompressedTexture2D::5726842029661746202::1563729256::1740506965::1::::<><>::
+Rock_1_.png::CompressedTexture2D::2926711163394948440::1563728299::1740507093::1::::<><>::
+tree_bonus.blend::PackedScene::1518637473617795355::1569665708::1740506960::1::::<><>::
+tree_bonus.fbx::PackedScene::3694877012641964316::1569665842::1740506959::1::::<><>::
+tree_bonus.obj::Mesh::6112028802261117410::1569665851::1740506952::1::::<><>::
+tree_fin.png::CompressedTexture2D::6921064622036604495::1569656686::1740509716::1::::<><>::
+tree_X12_+X1_Rock_Pack.blend::PackedScene::6428112458490169897::1563731850::1740506959::1::::<><>::
+tree_X12_+X1_Rock_Pack.fbx::PackedScene::3116547750569477959::1569665781::1740506952::1::::<><>::
+::res://model/frstlwpl/::1740682602
+Mining_Pack_Free.fbx::PackedScene::3779535728623932445::1740682596::1740682602::1::::<><>::uid://dahnmb1byeo0d::::res://model/frstlwpl/textures/PP_Color_Palette.png
+::res://model/frstlwpl/textures/::1740682602
+PP_Color_Palette.png::CompressedTexture2D::7174523538556491085::1740682598::1740682602::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/::1740579972
+FhnnYr.jpg::CompressedTexture2D::8569422734927121156::1740509421::1740509722::1::::<><>::
+K6zpH_.jpg::CompressedTexture2D::6688053984201144260::1740509421::1740509724::1::::<><>::
+read.txt::TextFile::-1::1740509421::0::1::::<><>::
+Support me.txt::TextFile::-1::1740509421::0::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/::1740579971
+::res://model/Low Poly Forest Decoration Pack/Bush/Blender FIles/::1740579971
+IF YOU WANT TO EDIT SOMETHING.txt::TextFile::-1::1740509421::0::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/Blender FIles/Bush1.1/::1740579971
+Bush1.1.blend::PackedScene::8616680976722163526::1740509421::1740509437::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/Blender FIles/Bush1.2/::1740579971
+Bush1.2.blend::PackedScene::5687947085765904230::1740509421::1740509437::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/Blender FIles/Bush1.3/::1740579971
+Bush1.3.blend::PackedScene::3380882024664436334::1740509421::1740509436::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/Blender FIles/Bush2.1/::1740579971
+Bush2.1.blend::PackedScene::2221771425216783107::1740509421::1740509436::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/Blender FIles/Bush2.2/::1740579971
+Bush2.2.blend::PackedScene::5291366679062188412::1740509421::1740509436::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/Blender FIles/Bush2.3/::1740579971
+Bush2.3.blend::PackedScene::6638761291354040151::1740509421::1740509436::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/Blender FIles/Bush3.1/::1740579971
+Bush3.1.blend::PackedScene::4925429927303398658::1740509421::1740509436::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/Blender FIles/Bush3.2/::1740579971
+Bush3.2.blend::PackedScene::1629698637265604897::1740509421::1740509436::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/Blender FIles/Bush3.3/::1740579971
+Bush3.3.blend::PackedScene::4628745646885511823::1740509421::1740509436::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/FBX Files/::1740579972
+IF YOU WANT TO DRAG AND DROP INTO UNITY.txt::TextFile::-1::1740509421::0::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/FBX Files/Bush1.1/::1740579971
+Bush1.1.fbx::PackedScene::7166378217070813615::1740509421::1740509435::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/FBX Files/Bush1.2/::1740579971
+Bush1.2.fbx::PackedScene::3764362069055268283::1740509421::1740509435::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/FBX Files/Bush1.3/::1740579971
+Bush1.3.fbx::PackedScene::5816263651005659814::1740509421::1740509435::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/FBX Files/Bush2.1/::1740579972
+Bush2.1.fbx::PackedScene::1388144103356006043::1740509421::1740509435::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/FBX Files/Bush2.2/::1740579972
+Bush2.2.fbx::PackedScene::2375727585899888256::1740509421::1740509435::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/FBX Files/Bush2.3/::1740579972
+Bush2.3.fbx::PackedScene::4893004762754922580::1740509421::1740509435::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/FBX Files/Bush3.1/::1740579972
+Bush3.1.fbx::PackedScene::8411767114348734079::1740509421::1740509435::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/FBX Files/Bush3.2/::1740579972
+Bush3.2.fbx::PackedScene::4268954175236531690::1740509421::1740509435::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Bush/FBX Files/Bush3.3/::1740579972
+Bush3.3.fbx::PackedScene::3426339347504578566::1740509421::1740509435::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/::1740579972
+::res://model/Low Poly Forest Decoration Pack/Flowers/Blender FIles/::1740579972
+IF YOU WANT TO EDIT SOMETHING.txt::TextFile::-1::1740509421::0::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/Blender FIles/Flower1.1/::1740579972
+Flower1.1.blend::PackedScene::7969237853633247805::1740509421::1740509435::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/Blender FIles/Flower1.2/::1740579972
+Flower1.2.blend::PackedScene::6315446088668939871::1740509421::1740509435::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/Blender FIles/Flower1.3/::1740579972
+Flower1.3.blend::PackedScene::913863019288563039::1740509421::1740509435::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/Blender FIles/Flower2.1/::1740579972
+Flower2.1.blend::PackedScene::9058134500577233967::1740509421::1740509448::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/Blender FIles/Flower2.2/::1740579972
+Flower2.2.blend::PackedScene::6436849965237866461::1740509421::1740509447::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/Blender FIles/Flower2.3/::1740579972
+Flower2.3.blend::PackedScene::3752411117417541529::1740509421::1740509447::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/Blender FIles/Flower3.1/::1740579972
+Flower3.1.blend::PackedScene::9212355551357436455::1740509421::1740509446::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/Blender FIles/Flower3.2/::1740579972
+Flower3.2.blend::PackedScene::1445616924298217940::1740509421::1740509446::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/Blender FIles/Flower3.3/::1740579972
+Flower3.3.blend::PackedScene::6013406397181400114::1740509421::1740509445::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/FBX Files/::1740579972
+IF YOU WANT TO DRAG AND DROP INTO UNITY.txt::TextFile::-1::1740509421::0::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/FBX Files/Flower1.1/::1740579972
+Flower1.1.fbx::PackedScene::4316001271626573768::1740509421::1740509445::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/FBX Files/Flower1.2/::1740579972
+Flower1.2.fbx::PackedScene::4309088224331212887::1740509422::1740509444::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/FBX Files/Flower1.3/::1740579972
+Flower1.3.fbx::PackedScene::1449988080626844546::1740509422::1740509444::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/FBX Files/Flower2.1/::1740579972
+Flower2.1.fbx::PackedScene::4950534239633103355::1740509422::1740509443::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/FBX Files/Flower2.2/::1740579972
+Flower2.2.fbx::PackedScene::3476289846958440351::1740509422::1740509443::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/FBX Files/Flower2.3/::1740579972
+Flower2.3.fbx::PackedScene::8329709343501397604::1740509422::1740509442::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/FBX Files/Flower3.1/::1740579972
+Flower3.1.fbx::PackedScene::3609992467283234168::1740509422::1740509442::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/FBX Files/Flower3.2/::1740579972
+Flower3.2.fbx::PackedScene::6687276667832836866::1740509422::1740509441::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Flowers/FBX Files/Flower3.3/::1740579972
+Flower3.3.fbx::PackedScene::2650870402877868448::1740509422::1740509441::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Grass/::1740579972
+::res://model/Low Poly Forest Decoration Pack/Grass/Blender FIles/::1740579972
+Grass.blend::PackedScene::443550297619078025::1740509422::1740509440::1::::<><>::
+IF YOU WANT TO EDIT SOMETHING.txt::TextFile::-1::1740509422::0::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Grass/FBX Files/::1740579972
+Grass.fbx::PackedScene::2322434681617726::1740509422::1740509440::1::::<><>::
+IF YOU WANT TO DRAG AND DROP INTO UNITY.txt::TextFile::-1::1740509422::0::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Mushrooms/::1740579972
+::res://model/Low Poly Forest Decoration Pack/Mushrooms/Blender FIles/::1740579972
+IF YOU WANT TO EDIT SOMETHING.txt::TextFile::-1::1740509422::0::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Mushrooms/Blender FIles/Mushroom1.1/::1740579972
+Mushroom1.1.blend::PackedScene::2688753243382620742::1740509422::1740509439::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Mushrooms/Blender FIles/Mushroom1.2/::1740579972
+Mushroom1.2.blend::PackedScene::7758646434762969349::1740509422::1740509439::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Mushrooms/Blender FIles/Mushroom2.1/::1740579972
+Mushroom2.1.blend::PackedScene::4473321915883885431::1740509422::1740509438::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Mushrooms/Blender FIles/Mushroom2.2/::1740579972
+Mushroom2.2.blend::PackedScene::6214656976194460154::1740509422::1740509438::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Mushrooms/FBX Files/::1740579972
+IF YOU WANT TO DRAG AND DROP INTO UNITY.txt::TextFile::-1::1740509422::0::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Mushrooms/FBX Files/Mushroom1.1/::1740579972
+Mushroom1.1.fbx::PackedScene::3920720654971690357::1740509422::1740509433::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Mushrooms/FBX Files/Mushroom1.2/::1740579972
+Mushroom1.2.fbx::PackedScene::8902260986327346947::1740509422::1740509433::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Mushrooms/FBX Files/Mushroom2.1/::1740579972
+Mushroom2.1.fbx::PackedScene::661829936635635063::1740509422::1740509433::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Mushrooms/FBX Files/Mushroom2.2/::1740579972
+Mushroom2.2.fbx::PackedScene::1318265063977349438::1740509422::1740509433::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/::1740579972
+::res://model/Low Poly Forest Decoration Pack/Stone/Blender Files/::1740579972
+IF YOU WANT TO EDIT SOMETHING.txt::TextFile::-1::1740509422::0::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/Blender Files/Stone1.1/::1740579972
+Stone1.1.blend::PackedScene::8019873764227057467::1740509422::1740509432::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/Blender Files/Stone1.2/::1740579972
+Stone1.2.blend::PackedScene::5077692338173503212::1740509422::1740509432::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/Blender Files/Stone1.3/::1740579972
+Stone1.3.blend::PackedScene::2827646393291998733::1740509422::1740509432::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/Blender Files/Stone2.1/::1740579972
+Stone2.1.blend::PackedScene::2384205644215794405::1740509422::1740509432::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/Blender Files/Stone2.2/::1740579972
+Stone2.2.blend::PackedScene::4615907011897538934::1740509422::1740509432::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/Blender Files/Stone2.3/::1740579972
+Stone2.3.blend::PackedScene::3283082330611420593::1740509422::1740509432::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/Blender Files/Stone3.1/::1740579972
+Stone3.1.blend::PackedScene::6906122894590628344::1740509422::1740509432::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/Blender Files/Stone3.2/::1740579972
+Stone3.2.blend::PackedScene::7094768040465555344::1740509422::1740509432::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/Blender Files/Stone3.3/::1740579972
+Stone3.3.blend::PackedScene::1979017687753665884::1740509422::1740509432::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/FBX Files/::1740579972
+IF YOU WANT TO DRAG AND DROP INTO UNITY.txt::TextFile::-1::1740509422::0::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/FBX Files/Stone1.1/::1740579972
+Stone1.1.fbx::PackedScene::5997187533035270092::1740509422::1740509426::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/FBX Files/Stone1.2/::1740579972
+Stone1.2.fbx::PackedScene::4113432256749363107::1740509422::1740509426::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/FBX Files/Stone1.3/::1740579972
+Stone1.3.fbx::PackedScene::4603034198104894324::1740509422::1740509426::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/FBX Files/Stone2.1/::1740579972
+Stone2.1.fbx::PackedScene::517502007362203878::1740509422::1740509426::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/FBX Files/Stone2.2/::1740579972
+Stone2.2.fbx::PackedScene::2871052807539915342::1740509422::1740509425::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/FBX Files/Stone2.3/::1740579972
+Stone2.3.fbx::PackedScene::1332990812251425439::1740509422::1740509425::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/FBX Files/Stone3.1/::1740579972
+Stone3.1.fbx::PackedScene::3272563037408227075::1740509422::1740509425::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/FBX Files/Stone3.2/::1740579972
+Stone3.2.fbx::PackedScene::3818792000250971755::1740509422::1740509434::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Stone/FBX Files/Stone3.3/::1740579972
+Stone3.3.fbx::PackedScene::897646611121513963::1740509422::1740509434::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/::1740579974
+::res://model/Low Poly Forest Decoration Pack/Trees/Blender Files/::1740579974
+IF YOU WANT TO EDIT SOMETHING.txt::TextFile::-1::1740509422::0::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/Blender Files/Tree 1.1/::1740579972
+Tree1.1.blend::PackedScene::4545457568370323044::1740509422::1740509434::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/Blender Files/Tree 1.2/::1740579972
+Tree1.2.blend::PackedScene::1396461246480957119::1740509422::1740509434::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/Blender Files/Tree 1.3/::1740579972
+Tree1.3.blend::PackedScene::1363927447789980953::1740509422::1740509434::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/Blender Files/Tree 2.1/::1740579972
+Tree2.1.blend::PackedScene::2973662441264093543::1740509422::1740509434::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/Blender Files/Tree 2.2/::1740579973
+Tree2.2.blend::PackedScene::2181738461637804147::1740509422::1740509434::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/Blender Files/Tree 2.3/::1740579974
+Tree2.3.blend::PackedScene::2203655657797389625::1740509423::1740509434::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/Blender Files/Tree 3.1/::1740579974
+Tree3.1.blend::PackedScene::5511239452548849358::1740509423::1740509434::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/Blender Files/Tree 3.2/::1740579974
+Tree3.2.blend::PackedScene::193528887218827159::1740509423::1740509434::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/Blender Files/Tree 3.3/::1740579974
+Tree3.3.blend::PackedScene::341257912369301973::1740509423::1740509434::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/FBX Files/::1740579974
+IF YOU WANT TO DRAG AND DROP INTO UNITY.txt::TextFile::-1::1740509423::0::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/FBX Files/Tree 1.1/::1740579974
+Tree1.1.fbx::PackedScene::1449670549304397159::1740509423::1740509434::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/FBX Files/Tree 1.2/::1740579974
+Tree1.2.fbx::PackedScene::8617777423486588398::1740509423::1740509433::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/FBX Files/Tree 1.3/::1740579974
+Tree1.3.fbx::PackedScene::6730164927137497583::1740509423::1740509433::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/FBX Files/Tree 2.1/::1740579974
+Tree2.1.fbx::PackedScene::5207404332249090874::1740509423::1740509433::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/FBX Files/Tree 2.2/::1740579974
+Tree2.2.fbx::PackedScene::3278608963292693692::1740509423::1740509433::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/FBX Files/Tree 2.3/::1740579974
+Tree2.3.fbx::PackedScene::3378547697670945442::1740509423::1740509433::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/FBX Files/Tree 3.1/::1740579974
+Tree3.1.fbx::PackedScene::6449582074574771180::1740509423::1740509433::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/FBX Files/Tree 3.2/::1740579974
+Tree3.2.fbx::PackedScene::917720936631252140::1740509423::1740509433::1::::<><>::
+::res://model/Low Poly Forest Decoration Pack/Trees/FBX Files/Tree 3.3/::1740579974
+Tree3.3.fbx::PackedScene::4850908355687364181::1740509423::1740509433::1::::<><>::
+::res://model/mostr/::1740688930
+cute_monster.fbx::PackedScene::8034911691354262112::1740688928::1740688932::1::::<><>::
+::res://model/zaec/::1740579974
+zaec.fbx::PackedScene::1103797778839240629::1740505260::1740505300::1::::<><>::uid://c4yd1gxpei8vk::::res://model/zaec/zaec_0.png
+zaec_0.png::CompressedTexture2D::6858091831964235000::1740505299::1740505365::1::::<><>::
+zaec_txtur.png::CompressedTexture2D::7074305897079328210::1740504868::1740505365::1::::<><>::
+::res://monstr/::1740688899
+::res://prefab/::1740688757
+forest_enviroment.occ::ArrayOccluder3D::6852153477033989086::1740685015::0::1::::<><>::
+forest_enviroment.tscn::PackedScene::6917339809643361017::1740688688::0::1::::<><>::uid://bsqle2ovw1w2l::::res://prefab/trigger_obj.tscn<>uid://dvyb5d6gfn0fa::::res://sound/forest-night.mp3<>uid://bh8i8iygt16nt::::res://prefab/mining_pack_free.tscn<>uid://c4vh74pnlrs5c::::res://prefab/forest_enviroment.occ
+playground2.tscn::PackedScene::6301077243199060793::1740680950::0::1::::<><>::uid://dliu4ryxajdrg::::res://model/playground/playground.fbx
+Playground.tscn::PackedScene::6112343592249195890::1740680870::0::1::::<><>::
+mining_pack_free.tscn::PackedScene::2946412179745461897::1740688689::0::1::::<><>::uid://dahnmb1byeo0d::::res://model/frstlwpl/textures/PP_Color_Palette.png
+main_menu.tscn::PackedScene::5589241491174171943::1740688757::0::1::::<><>::uid://c5s2tt5ichgpl::::res://prefab/forest_enviroment.tscn<>uid://w0ryx4i6wxxd::::res://prefab/zaec.tscn<>uid://t83hxgh8be5n::::res://fonts/cascadia-mono-pl-semibold.otf<>res://prefab/interface.gd
+interface.gd::GDScript::-1::1740688688::0::1::::<>CanvasLayer<>::
+trigger_obj.gd::GDScript::-1::1740686105::0::1::::<>Node3D<>::
+trigger_obj.tscn::PackedScene::3683526384080998345::1740688689::0::1::::<><>::res://prefab/trigger_obj.gd
+tree_2_1.tscn::PackedScene::6997139508204527852::1740594091::0::1::::<><>::uid://cggrgn7n6mvo1::::res://model/Low Poly Forest Decoration Pack/Trees/FBX Files/Tree 2.1/Tree2.1.fbx
+tree_3_1.tscn::PackedScene::5194008271224114820::1740594165::0::1::::<><>::uid://cx5hw6xp5t4gu::::res://model/Low Poly Forest Decoration Pack/Trees/FBX Files/Tree 3.1/Tree3.1.fbx
+zaec.gd::GDScript::-1::1740687944::0::1::::player<>CharacterBody3D<>::
+zaec.tscn::PackedScene::1596840305061137485::1740688689::0::1::::<><>::uid://c4yd1gxpei8vk::::res://model/zaec/zaec_0.png<>res://prefab/zaec.gd<>uid://cm8k75k8rlky2::::res://sound/shag.mp3
+::res://scene/::1740688688
+camera_3d.gd::GDScript::-1::1740512938::0::1::::<>Camera3D<>::
+cube_lamp.gd::GDScript::-1::1740679449::0::1::::<>MeshInstance3D<>::
+demo.tscn::PackedScene::3233442437771115329::1740688688::0::1::::<><>::uid://c5s2tt5ichgpl::::res://prefab/forest_enviroment.tscn<>uid://w0ryx4i6wxxd::::res://prefab/zaec.tscn<>res://scene/camera_3d.gd<>uid://t83hxgh8be5n::::res://fonts/cascadia-mono-pl-semibold.otf<>res://scene/cube_lamp.gd<>res://scene/interface.gd<>res://scene/fps.gd
+fps.gd::GDScript::-1::1740679099::0::1::::<>Label<>::
+h_box_container_2.gd::GDScript::-1::1740679061::0::1::::<>HBoxContainer<>::
+interface.gd::GDScript::-1::1740589166::0::1::::<>CanvasLayer<>::
+character_body_3d.gd::GDScript::-1::1740683819::0::1::::<>CharacterBody3D<>::
+::res://sound/::1740687398
+forest-night.mp3::AudioStreamMP3::8682887330124152774::1740687344::1740687398::1::::<><>::
+shag.mp3::AudioStreamMP3::5683897864930264571::1740687300::1740687398::1::::<><>::

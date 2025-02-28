@@ -1,0 +1,13 @@
+res://prefab/forest_enviroment.tscn
+res://prefab/forest_enviroment.occ
+res://scene/demo.tscn
+res://prefab/mining_pack_free.tscn
+res://prefab/zaec.gd
+res://prefab/trigger_obj.tscn
+res://prefab/trigger_obj.gd
+res://prefab/zaec.tscn
+res://prefab/main_menu.tscn
+res://prefab/interface.gd
+res://monstr/cute_monster.tscn
+res://monstr/cute_monster.gd
+res://prefab/main_menu_bad.tscn
